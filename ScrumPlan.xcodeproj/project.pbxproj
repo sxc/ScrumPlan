@@ -15,6 +15,7 @@
 		3441B45F26B7D7BC002F90E5 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3441B45E26B7D7BC002F90E5 /* CardView.swift */; };
 		347A955A26B8BD13008ED45B /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347A955926B8BD13008ED45B /* Color+Codable.swift */; };
 		347A955C26B8C8BE008ED45B /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347A955B26B8C8BD008ED45B /* ScrumsView.swift */; };
+		347A955E26B8F1BF008ED45B /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347A955D26B8F1BF008ED45B /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3441B45E26B7D7BC002F90E5 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		347A955926B8BD13008ED45B /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		347A955B26B8C8BD008ED45B /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		347A955D26B8F1BF008ED45B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		3441B44D26B7CDBF002F90E5 /* ScrumPlan */ = {
 			isa = PBXGroup;
 			children = (
+				347A955D26B8F1BF008ED45B /* DetailView.swift */,
 				347A955B26B8C8BD008ED45B /* ScrumsView.swift */,
 				347A955926B8BD13008ED45B /* Color+Codable.swift */,
 				3441B45E26B7D7BC002F90E5 /* CardView.swift */,
@@ -152,6 +155,7 @@
 				3441B45126B7CDC0002F90E5 /* MeetingView.swift in Sources */,
 				347A955C26B8C8BE008ED45B /* ScrumsView.swift in Sources */,
 				3441B45D26B7D218002F90E5 /* DailyScrum.swift in Sources */,
+				347A955E26B8F1BF008ED45B /* DetailView.swift in Sources */,
 				3441B45F26B7D7BC002F90E5 /* CardView.swift in Sources */,
 				347A955A26B8BD13008ED45B /* Color+Codable.swift in Sources */,
 				3441B44F26B7CDC0002F90E5 /* ScrumPlanApp.swift in Sources */,
